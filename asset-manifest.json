@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/colorgen/static/css/main.75df9f48.chunk.css",
+    "main.js": "/colorgen/static/js/main.e341b6a4.chunk.js",
+    "main.js.map": "/colorgen/static/js/main.e341b6a4.chunk.js.map",
+    "runtime-main.js": "/colorgen/static/js/runtime-main.b601d4bf.js",
+    "runtime-main.js.map": "/colorgen/static/js/runtime-main.b601d4bf.js.map",
+    "static/js/2.924b5c8e.chunk.js": "/colorgen/static/js/2.924b5c8e.chunk.js",
+    "static/js/2.924b5c8e.chunk.js.map": "/colorgen/static/js/2.924b5c8e.chunk.js.map",
+    "index.html": "/colorgen/index.html",
+    "precache-manifest.ad045129ff75649f232e50e56558fc7c.js": "/colorgen/precache-manifest.ad045129ff75649f232e50e56558fc7c.js",
+    "service-worker.js": "/colorgen/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/colorgen/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.924b5c8e.chunk.js.LICENSE.txt": "/colorgen/static/js/2.924b5c8e.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/colorgen/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b601d4bf.js",
+    "static/js/2.924b5c8e.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.e341b6a4.chunk.js"
+  ]
+}
